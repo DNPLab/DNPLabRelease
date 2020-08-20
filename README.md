@@ -36,7 +36,7 @@ pip install dnpLab
 
 # Documenation
 
-Find the online documentation at: docs.dnplab.net
+Find the online documentation at: http://docs.dnplab.net
 
 # Developement 
 
