@@ -30,6 +30,10 @@
 
    <a href="https://github.com/DNPLab/dnpLab" target="_blank"> dnpLab on Git Lab</a>
 
+.. |dnpLabGitIssueTrackerLink| raw:: html
+
+   <a href="https://github.com/DNPLab/dnpLab/issues" target="_blank"> dnpLab Git Issue Tracker</a>
+
 
 =================
 Welcome to dnpLab
@@ -47,6 +51,8 @@ dnpLab is a collaborative project created by
 Authors: Timothy Keller, Thomas Casey, Yanxian Lin, John Franck, Thorsten Maly, Songi Han
     
 The source code for the project is published here: |dnpLabGitLink|
+
+Please report all issues related to dnpLab using the: |dnpLabGitIssueTrackerLink|
 
 .. list-table::
    :widths: 60 40
