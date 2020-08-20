@@ -1,0 +1,750 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="Python" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="Python" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>9. dnpHydration &mdash; dnpLab 1.0.0 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+        <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="_static/css/rtdB12Ttheme.css" type="text/css" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="10. dnpResults" href="dnpResults.html" />
+    <link rel="prev" title="8. dnpFit" href="dnpFit.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="index.html" class="icon icon-home"> dnpLab
+          
+
+          
+            
+            <img src="_static/dnpLabLogo.png" class="logo" alt="Logo"/>
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                1.0
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">Documentation:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="introduction.html">1. Introduction to dnpLab</a></li>
+<li class="toctree-l1"><a class="reference internal" href="install.html">2. Installing dnpLab</a></li>
+<li class="toctree-l1"><a class="reference internal" href="quick-start.html">3. Quick-Start Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="examples.html">4. dnpLab Examples</a></li>
+<li class="toctree-l1"><a class="reference internal" href="dnpData.html">5. dnpData</a></li>
+<li class="toctree-l1"><a class="reference internal" href="dnpImport.html">6. dnpImport</a></li>
+<li class="toctree-l1"><a class="reference internal" href="dnpNMR.html">7. dnpNMR</a></li>
+<li class="toctree-l1"><a class="reference internal" href="dnpFit.html">8. dnpFit</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">9. dnpHydration</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#summary">9.1. Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-dnpLab.dnpHydration">9.2. Detailed Description of Functions</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="dnpResults.html">10. dnpResults</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hydrationGUI.html">11. hydrationGUI</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">dnpLab</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html">Docs</a> &raquo;</li>
+        
+      <li><span class="section-number">9. </span>dnpHydration</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="_sources/dnpHydration.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="dnphydration">
+<h1><span class="section-number">9. </span>dnpHydration<a class="headerlink" href="#dnphydration" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="summary">
+<h2><span class="section-number">9.1. </span>Summary<a class="headerlink" href="#summary" title="Permalink to this headline">¶</a></h2>
+<p>The following table summarizes all available functions in this module</p>
+</div>
+<div class="section" id="module-dnpLab.dnpHydration">
+<span id="detailed-description-of-functions"></span><h2><span class="section-number">9.2. </span>Detailed Description of Functions<a class="headerlink" href="#module-dnpLab.dnpHydration" title="Permalink to this headline">¶</a></h2>
+<p>dnpHydration module</p>
+<p>This module calculates hydration related quantities using processed ODNP data.</p>
+<dl class="py function">
+<dt id="dnpLab.dnpHydration.hydration">
+<code class="sig-prename descclassname">dnpLab.dnpHydration.</code><code class="sig-name descname">hydration</code><span class="sig-paren">(</span><em class="sig-param"><span class="n">ws</span></em><span class="sig-paren">)</span><a class="headerlink" href="#dnpLab.dnpHydration.hydration" title="Permalink to this definition">¶</a></dt>
+<dd><p>Calculating Hydration Results</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>ws</strong> -- Workspace</p>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p>A dictionary of hydration results</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p>dict</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py class">
+<dt id="dnpLab.dnpHydration.HydrationParameter">
+<em class="property">class </em><code class="sig-prename descclassname">dnpLab.dnpHydration.</code><code class="sig-name descname">HydrationParameter</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationParameter" title="Permalink to this definition">¶</a></dt>
+<dd><p>Hydration Parameters</p>
+<p>Franck, JM, et. al.; &quot;Anomalously Rapid Hydration Water Diffusion Dynamics Near DNA Surfaces&quot; J. Am. Chem. Soc. 2015, 137, 12013−12023.</p>
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationParameter.ksigma_bulk">
+<code class="sig-name descname">ksigma_bulk</code><em class="property"> = 95.4</em><a class="headerlink" href="#dnpLab.dnpHydration.HydrationParameter.ksigma_bulk" title="Permalink to this definition">¶</a></dt>
+<dd><p>unit is s^-1 M^-1 (Figure 3 caption)</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationParameter.klow_bulk">
+<code class="sig-name descname">klow_bulk</code><em class="property"> = 366</em><a class="headerlink" href="#dnpLab.dnpHydration.HydrationParameter.klow_bulk" title="Permalink to this definition">¶</a></dt>
+<dd><p>unit is s^-1 M^-1 (Figure 3 caption)</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationParameter.tcorr_bulk">
+<code class="sig-name descname">tcorr_bulk</code><em class="property"> = 54</em><a class="headerlink" href="#dnpLab.dnpHydration.HydrationParameter.tcorr_bulk" title="Permalink to this definition">¶</a></dt>
+<dd><p>Corrected bulk tcorr, unit is ps, (section 2.5)</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationParameter.D_H2O">
+<code class="sig-name descname">D_H2O</code><em class="property"> = 2.3e-09</em><a class="headerlink" href="#dnpLab.dnpHydration.HydrationParameter.D_H2O" title="Permalink to this definition">¶</a></dt>
+<dd><p>(Eq. 19-20) bulk water diffusivity, unit is d^2/s where d is
+distance in meters.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationParameter.D_SL">
+<code class="sig-name descname">D_SL</code><em class="property"> = 4.1e-10</em><a class="headerlink" href="#dnpLab.dnpHydration.HydrationParameter.D_SL" title="Permalink to this definition">¶</a></dt>
+<dd><p>(Eq. 19-20) spin label diffusivity, unit is d^2/s where d is
+distance in meters.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationParameter.field">
+<code class="sig-name descname">field</code><em class="property"> = None</em><a class="headerlink" href="#dnpLab.dnpHydration.HydrationParameter.field" title="Permalink to this definition">¶</a></dt>
+<dd><p>Static magnetic field in mT, needed to find omega_e and _H</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationParameter.spin_C">
+<code class="sig-name descname">spin_C</code><em class="property"> = None</em><a class="headerlink" href="#dnpLab.dnpHydration.HydrationParameter.spin_C" title="Permalink to this definition">¶</a></dt>
+<dd><p>(Eq. 1-2) unit is microM, spin label concentration for scaling
+relaxations to get &quot;relaxivities&quot;</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationParameter.T10">
+<code class="sig-name descname">T10</code><em class="property"> = None</em><a class="headerlink" href="#dnpLab.dnpHydration.HydrationParameter.T10" title="Permalink to this definition">¶</a></dt>
+<dd><p>T1 with spin label but at 0 mw E_power, unit is sec</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationParameter.T100">
+<code class="sig-name descname">T100</code><em class="property"> = None</em><a class="headerlink" href="#dnpLab.dnpHydration.HydrationParameter.T100" title="Permalink to this definition">¶</a></dt>
+<dd><p>T1 without spin label and without mw E_power, unit is sec</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt id="dnpLab.dnpHydration.HydrationParameter.t1_interp_method">
+<em class="property">property </em><code class="sig-name descname">t1_interp_method</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationParameter.t1_interp_method" title="Permalink to this definition">¶</a></dt>
+<dd><p>Method used to interpolate T1, either <cite>linear</cite> or <cite>second_order</cite></p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>str</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt id="dnpLab.dnpHydration.HydrationParameter.smax_model">
+<em class="property">property </em><code class="sig-name descname">smax_model</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationParameter.smax_model" title="Permalink to this definition">¶</a></dt>
+<dd><p>Method used to determine smax. Either <cite>tethered</cite> or <cite>free</cite></p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>str</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt id="dnpLab.dnpHydration.HydrationCalculator">
+<em class="property">class </em><code class="sig-prename descclassname">dnpLab.dnpHydration.</code><code class="sig-name descname">HydrationCalculator</code><span class="sig-paren">(</span><em class="sig-param"><span class="n">T1</span><span class="p">:</span> <span class="n">numpy.array</span></em>, <em class="sig-param"><span class="n">T1_power</span><span class="p">:</span> <span class="n">numpy.array</span></em>, <em class="sig-param"><span class="n">E</span><span class="p">:</span> <span class="n">numpy.array</span></em>, <em class="sig-param"><span class="n">E_power</span><span class="p">:</span> <span class="n">numpy.array</span></em>, <em class="sig-param"><span class="n">hp</span><span class="p">:</span> <span class="n"><a class="reference internal" href="#dnpLab.dnpHydration.HydrationParameter" title="dnpLab.dnpHydration.HydrationParameter">dnpLab.dnpHydration.HydrationParameter</a></span></em><span class="sig-paren">)</span><a class="headerlink" href="#dnpLab.dnpHydration.HydrationCalculator" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>Hydration Results Calculator</p>
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationCalculator.T1">
+<code class="sig-name descname">T1</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationCalculator.T1" title="Permalink to this definition">¶</a></dt>
+<dd><p>T1 array. Unit: second.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>numpy.array</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationCalculator.T1_power">
+<code class="sig-name descname">T1_power</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationCalculator.T1_power" title="Permalink to this definition">¶</a></dt>
+<dd><p>E_power in Watt unit, same length as T1.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>numpy.array</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationCalculator.E">
+<code class="sig-name descname">E</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationCalculator.E" title="Permalink to this definition">¶</a></dt>
+<dd><p>Enhancements.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>numpy.array</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationCalculator.E_power">
+<code class="sig-name descname">E_power</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationCalculator.E_power" title="Permalink to this definition">¶</a></dt>
+<dd><p>E_power in Watt unit, same length as E.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>numpy.array</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationCalculator.hp">
+<code class="sig-name descname">hp</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationCalculator.hp" title="Permalink to this definition">¶</a></dt>
+<dd><p>Parameters for calculation, including default
+values.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p><a class="reference internal" href="#dnpLab.dnpHydration.HydrationParameter" title="dnpLab.dnpHydration.HydrationParameter">HydrationParameter</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationCalculator.results">
+<code class="sig-name descname">results</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationCalculator.results" title="Permalink to this definition">¶</a></dt>
+<dd><p>Hydration results.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p><a class="reference internal" href="#dnpLab.dnpHydration.HydrationResults" title="dnpLab.dnpHydration.HydrationResults">HydrationResults</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt id="dnpLab.dnpHydration.HydrationCalculator.run">
+<code class="sig-name descname">run</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#dnpLab.dnpHydration.HydrationCalculator.run" title="Permalink to this definition">¶</a></dt>
+<dd><p>Run calculator</p>
+</dd></dl>
+
+<dl class="py method">
+<dt id="dnpLab.dnpHydration.HydrationCalculator.interpolate_T1">
+<code class="sig-name descname">interpolate_T1</code><span class="sig-paren">(</span><em class="sig-param"><span class="n">E_power</span><span class="p">:</span> <span class="n">numpy.array</span></em>, <em class="sig-param"><span class="n">T1_power</span><span class="p">:</span> <span class="n">numpy.array</span></em>, <em class="sig-param"><span class="n">T1</span><span class="p">:</span> <span class="n">numpy.array</span></em><span class="sig-paren">)</span><a class="headerlink" href="#dnpLab.dnpHydration.HydrationCalculator.interpolate_T1" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns the one-dimensional piecewise interpolant to a function with
+given discrete data points (T1_power, T1), evaluated at E_power.</p>
+<p>Points outside the data range will be extrapolated</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>E_power</strong> -- The x-coordinates at which to evaluate.</p></li>
+<li><p><strong>T1_power</strong> -- The x-coordinates of the data points, must be increasing.
+Otherwise, T1_power is internally sorted.</p></li>
+<li><p><strong>T1</strong> -- The y-coordinates of the data points, same length as T1_power.</p></li>
+</ul>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p>The evaluated values, same shape as E_power.</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p>interplatedT1 (np.array)</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt id="dnpLab.dnpHydration.HydrationCalculator.get_tcorr">
+<em class="property">static </em><code class="sig-name descname">get_tcorr</code><span class="sig-paren">(</span><em class="sig-param"><span class="n">coupling_factor</span><span class="p">:</span> <span class="n">float</span></em>, <em class="sig-param"><span class="n">omega_e</span><span class="p">:</span> <span class="n">float</span></em>, <em class="sig-param"><span class="n">omega_H</span><span class="p">:</span> <span class="n">float</span></em><span class="sig-paren">)</span><a class="headerlink" href="#dnpLab.dnpHydration.HydrationCalculator.get_tcorr" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns correlation time tcorr in pico second</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>coupling_factor</strong> (<em>float</em>) -- </p></li>
+<li><p><strong>omega_e</strong> (<em>float</em>) -- </p></li>
+<li><p><strong>omega_H</strong> (<em>float</em>) -- </p></li>
+</ul>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p>correlation time in pico second</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+<dt class="field-even">Raises</dt>
+<dd class="field-even"><p><a class="reference internal" href="#dnpLab.dnpHydration.FitError" title="dnpLab.dnpHydration.FitError"><strong>FitError</strong></a> -- If no available root is found.</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt id="dnpLab.dnpHydration.HydrationCalculator.get_ksigma">
+<em class="property">static </em><code class="sig-name descname">get_ksigma</code><span class="sig-paren">(</span><em class="sig-param"><span class="n">ksig_sp</span><span class="p">:</span> <span class="n">numpy.array</span></em>, <em class="sig-param"><span class="n">power</span><span class="p">:</span> <span class="n">numpy.array</span></em><span class="sig-paren">)</span><a class="headerlink" href="#dnpLab.dnpHydration.HydrationCalculator.get_ksigma" title="Permalink to this definition">¶</a></dt>
+<dd><p>Get ksigma and E_power at half max of ksig</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>ksig</strong> (<em>numpy.array</em>) -- Array of ksigma.</p></li>
+<li><p><strong>power</strong> (<em>numpy.array</em>) -- Array of E_power.</p></li>
+</ul>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p>fit results
+pcov: covariance matrix</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p>popt</p>
+</dd>
+</dl>
+<dl class="simple">
+<dt>Asserts:</dt><dd><p>ksigma (popt[0]) is greater than zero</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt id="dnpLab.dnpHydration.HydrationCalculator.get_uncorrected_xi">
+<em class="property">static </em><code class="sig-name descname">get_uncorrected_xi</code><span class="sig-paren">(</span><em class="sig-param"><span class="n">Ep</span><span class="p">:</span> <span class="n">numpy.array</span></em>, <em class="sig-param"><span class="n">power</span><span class="p">:</span> <span class="n">numpy.array</span></em>, <em class="sig-param"><span class="n">T10</span><span class="p">:</span> <span class="n">float</span></em>, <em class="sig-param"><span class="n">T100</span><span class="p">:</span> <span class="n">float</span></em>, <em class="sig-param"><span class="n">wRatio</span><span class="p">:</span> <span class="n">float</span></em>, <em class="sig-param"><span class="n">s_max</span><span class="p">:</span> <span class="n">float</span></em><span class="sig-paren">)</span><a class="headerlink" href="#dnpLab.dnpHydration.HydrationCalculator.get_uncorrected_xi" title="Permalink to this definition">¶</a></dt>
+<dd><p>Get coupling_factor and E_power at half saturation</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>Ep</strong> (<em>numpy.array</em>) -- Array of enhancements.</p></li>
+<li><p><strong>power</strong> (<em>numpy.array</em>) -- Array of E_power.</p></li>
+<li><p><strong>T10</strong> (<em>float</em>) -- T10</p></li>
+<li><p><strong>T100</strong> (<em>float</em>) -- T100</p></li>
+<li><p><strong>wRatio</strong> (<em>float</em>) -- ratio of electron &amp; proton Larmor frequencies</p></li>
+<li><p><strong>s_max</strong> (<em>float</em>) -- maximal saturation factor</p></li>
+</ul>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p>A tuple of float (coupling_factor, p_12).</p>
+</dd>
+<dt class="field-odd">Raises</dt>
+<dd class="field-odd"><p><a class="reference internal" href="#dnpLab.dnpHydration.FitError" title="dnpLab.dnpHydration.FitError"><strong>FitError</strong></a> -- If least square fitting is not succeed.</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt id="dnpLab.dnpHydration.HydrationResults">
+<em class="property">class </em><code class="sig-prename descclassname">dnpLab.dnpHydration.</code><code class="sig-name descname">HydrationResults</code><span class="sig-paren">(</span><em class="sig-param"><span class="o">*</span><span class="n">args</span></em>, <em class="sig-param"><span class="o">**</span><span class="n">kwargs</span></em><span class="sig-paren">)</span><a class="headerlink" href="#dnpLab.dnpHydration.HydrationResults" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <a class="reference internal" href="#dnpLab.dnpHydration.AttrDict" title="dnpLab.dnpHydration.AttrDict"><code class="xref py py-class docutils literal notranslate"><span class="pre">dnpLab.dnpHydration.AttrDict</span></code></a></p>
+<p>Class for handling hydration related quantities</p>
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationResults.uncorrected_Ep">
+<code class="sig-name descname">uncorrected_Ep</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationResults.uncorrected_Ep" title="Permalink to this definition">¶</a></dt>
+<dd><p>Fit of Ep array</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>numpy.array</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationResults.interpolated_T1">
+<code class="sig-name descname">interpolated_T1</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationResults.interpolated_T1" title="Permalink to this definition">¶</a></dt>
+<dd><p>T1 values interpolated on E_power,</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>numpy.array</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationResults.ksigma_array">
+<code class="sig-name descname">ksigma_array</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationResults.ksigma_array" title="Permalink to this definition">¶</a></dt>
+<dd><p>numpy array that is the result of ~(1-E) / [ (constants*T1) ],
+used in ksigma(E_power) fit,</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>numpy.array</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationResults.ksigma_fit">
+<code class="sig-name descname">ksigma_fit</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationResults.ksigma_fit" title="Permalink to this definition">¶</a></dt>
+<dd><p>ksig_fit,</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>numpy.array</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationResults.ksigma">
+<code class="sig-name descname">ksigma</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationResults.ksigma" title="Permalink to this definition">¶</a></dt>
+<dd><p>ksigma,</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationResults.ksigma_stdd">
+<code class="sig-name descname">ksigma_stdd</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationResults.ksigma_stdd" title="Permalink to this definition">¶</a></dt>
+<dd><p>ksigma_stdd,</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationResults.ksigma_bulk_ratio">
+<code class="sig-name descname">ksigma_bulk_ratio</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationResults.ksigma_bulk_ratio" title="Permalink to this definition">¶</a></dt>
+<dd><p>ksigma/ksigma_bulk,</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationResults.krho">
+<code class="sig-name descname">krho</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationResults.krho" title="Permalink to this definition">¶</a></dt>
+<dd><p>krho,</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationResults.klow">
+<code class="sig-name descname">klow</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationResults.klow" title="Permalink to this definition">¶</a></dt>
+<dd><p>klow,</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationResults.klow_bulk_ratio">
+<code class="sig-name descname">klow_bulk_ratio</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationResults.klow_bulk_ratio" title="Permalink to this definition">¶</a></dt>
+<dd><p>klow / klow_bulk,</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationResults.coupling_factor">
+<code class="sig-name descname">coupling_factor</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationResults.coupling_factor" title="Permalink to this definition">¶</a></dt>
+<dd><p>coupling_factor,</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationResults.tcorr">
+<code class="sig-name descname">tcorr</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationResults.tcorr" title="Permalink to this definition">¶</a></dt>
+<dd><p>tcorr,</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationResults.tcorr_bulk_ratio">
+<code class="sig-name descname">tcorr_bulk_ratio</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationResults.tcorr_bulk_ratio" title="Permalink to this definition">¶</a></dt>
+<dd><p>tcorr / tcorr_bulk,</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py attribute">
+<dt id="dnpLab.dnpHydration.HydrationResults.Dlocal">
+<code class="sig-name descname">Dlocal</code><a class="headerlink" href="#dnpLab.dnpHydration.HydrationResults.Dlocal" title="Permalink to this definition">¶</a></dt>
+<dd><p>Dlocal</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt id="dnpLab.dnpHydration.FitError">
+<em class="property">class </em><code class="sig-prename descclassname">dnpLab.dnpHydration.</code><code class="sig-name descname">FitError</code><a class="headerlink" href="#dnpLab.dnpHydration.FitError" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">Exception</span></code></p>
+<p>Exception of Failed Fitting</p>
+</dd></dl>
+
+<dl class="py class">
+<dt id="dnpLab.dnpHydration.AttrDict">
+<em class="property">class </em><code class="sig-prename descclassname">dnpLab.dnpHydration.</code><code class="sig-name descname">AttrDict</code><span class="sig-paren">(</span><em class="sig-param"><span class="o">*</span><span class="n">args</span></em>, <em class="sig-param"><span class="o">**</span><span class="n">kwargs</span></em><span class="sig-paren">)</span><a class="headerlink" href="#dnpLab.dnpHydration.AttrDict" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>Class with Dictionary-like Setting and Getting</p>
+<dl class="py method">
+<dt id="dnpLab.dnpHydration.AttrDict.update">
+<code class="sig-name descname">update</code><span class="sig-paren">(</span><em class="sig-param"><span class="n">init</span><span class="o">=</span><span class="default_value">None</span></em>, <em class="sig-param"><span class="o">**</span><span class="n">kwargs</span></em><span class="sig-paren">)</span><a class="headerlink" href="#dnpLab.dnpHydration.AttrDict.update" title="Permalink to this definition">¶</a></dt>
+<dd><p>Update existing parameters</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>init</strong> -- If init is present and has a .keys() method,
+then does: for k in init: D[k] = E[k].
+If init is present and lacks a .keys() method,
+then does: for k, v in init: D[k] = v</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="dnpResults.html" class="btn btn-neutral float-right" title="10. dnpResults" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="dnpFit.html" class="btn btn-neutral float-left" title="8. dnpFit" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2020, dnpLab
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>

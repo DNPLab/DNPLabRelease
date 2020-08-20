@@ -1,0 +1,459 @@
+PWD /Users/tmaly/Documents/Repositories/ODNP/odnplab/docs/build/latex
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT dnpLab.tex
+OUTPUT dnpLab.log
+INPUT sphinxmanual.cls
+INPUT sphinxmanual.cls
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/report.cls
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/report.cls
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cmap/cmap.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cmap/cmap.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecrm1000.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cmap/t1.cmap
+OUTPUT dnpLab.pdf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cmap/t1.cmap
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/switch.def
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/english.ldf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/english.ldf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/english.ldf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.def
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/txtbabel.def
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/times.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/times.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fncychap/fncychap.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fncychap/fncychap.sty
+INPUT sphinx.sty
+INPUT sphinx.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/textcomp.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/textcomp.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titlesec.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titlesec.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tabulary/tabulary.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tabulary/tabulary.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/longtable.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/longtable.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/varwidth/varwidth.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/varwidth/varwidth.sty
+INPUT sphinxmulticell.sty
+INPUT sphinxmulticell.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/makeidx.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/makeidx.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/framed/framed.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/framed/framed.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyvrb/fancyvrb.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyvrb/fancyvrb.sty
+INPUT footnotehyper-sphinx.sty
+INPUT footnotehyper-sphinx.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/wrapfig/wrapfig.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/wrapfig/wrapfig.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/parskip/parskip-2001-04-09.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/parskip/parskip.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/parskip/parskip.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/parskip/parskip-2001-04-09.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/alltt.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/alltt.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/upquote/upquote.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/upquote/upquote.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/capt-of/capt-of.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/capt-of/capt-of.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/needspace/needspace.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/needspace/needspace.sty
+INPUT sphinxhighlight.sty
+INPUT sphinxhighlight.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdftexcmds/pdftexcmds.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdftexcmds/pdftexcmds.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/letltxmacro/letltxmacro.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/letltxmacro/letltxmacro.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/etexcmds/etexcmds.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/etexcmds/etexcmds.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/atbegshi/atbegshi.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/atbegshi/atbegshi.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/atveryend/atveryend.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/atveryend/atveryend.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/hypcap.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/hypcap.sty
+INPUT sphinxmessages.sty
+INPUT sphinxmessages.sty
+OUTPUT dnpLab.idx
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT dnpLab.aux
+INPUT dnpLab.aux
+OUTPUT dnpLab.aux
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1ptm.fd
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1ptm.fd
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT dnpLab.out
+INPUT dnpLab.out
+INPUT dnpLab.out
+INPUT dnpLab.out
+INPUT ./dnpLab.out
+INPUT ./dnpLab.out
+OUTPUT dnpLab.out
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1phv.fd
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1phv.fd
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvr8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvb8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvb8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvbo8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvbo8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvb8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cmap/ot1.cmap
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cmap/ot1.cmap
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mmap/oml.cmap
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mmap/oml.cmap
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mmap/oms.cmap
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mmap/oms.cmap
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mmap/omx.cmap
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mmap/omx.cmap
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvb8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/helvetic/phvb8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvb8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/helvetic/phvbo8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvbo8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/helvetic/phvb8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvb8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/helvetic/phvb8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvb8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvr8t.tfm
+INPUT dnpLab.toc
+INPUT dnpLab.toc
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+OUTPUT dnpLab.toc
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/helvetic/phvr8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvr8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/helvetic/phvb8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvb8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8c.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8c.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvr8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvb8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/helvetic/phvr8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvr8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/helvetic/phvb8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvb8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmri8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvr8t.tfm
+INPUT dnpLab_workflow.png
+INPUT ./dnpLab_workflow.png
+INPUT ./dnpLab_workflow.png
+INPUT ./dnpLab_workflow.png
+INPUT ./dnpLab_workflow.png
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1pcr.fd
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1pcr.fd
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrr8t.tfm
+INPUT dnpLab_workflow.png
+INPUT ./dnpLab_workflow.png
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrr8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrr8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/courier/pcrr8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrr8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrb8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrro8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1pcr.fd
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1pcr.fd
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrr8c.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/courier/pcrb8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrb8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/courier/pcrro8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrro8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/courier/pcrr8c.vf
+INPUT example_process_1dbruker_real.png
+INPUT ./example_process_1dbruker_real.png
+INPUT ./example_process_1dbruker_real.png
+INPUT ./example_process_1dbruker_real.png
+INPUT ./example_process_1dbruker_real.png
+INPUT example_process_1dbruker_real.png
+INPUT ./example_process_1dbruker_real.png
+INPUT example_FID_1dbruker_real.png
+INPUT ./example_FID_1dbruker_real.png
+INPUT ./example_FID_1dbruker_real.png
+INPUT ./example_FID_1dbruker_real.png
+INPUT ./example_FID_1dbruker_real.png
+INPUT example_FID_1dbruker_real.png
+INPUT ./example_FID_1dbruker_real.png
+INPUT example_process_IRbruker.png
+INPUT ./example_process_IRbruker.png
+INPUT ./example_process_IRbruker.png
+INPUT ./example_process_IRbruker.png
+INPUT ./example_process_IRbruker.png
+INPUT example_process_IRbruker.png
+INPUT ./example_process_IRbruker.png
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT example_process_IRbuildup.png
+INPUT ./example_process_IRbuildup.png
+INPUT ./example_process_IRbuildup.png
+INPUT ./example_process_IRbuildup.png
+INPUT ./example_process_IRbuildup.png
+INPUT example_process_IRbuildup.png
+INPUT ./example_process_IRbuildup.png
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrro8c.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrb8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrro8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/courier/pcrro8c.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/courier/pcrb8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrb8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/courier/pcrr8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrr8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/courier/pcrro8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrro8r.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcrm1000.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8c.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmri8c.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrbo8t.tfm
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/courier/pcrbo8t.vf
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrbo8r.tfm
+INPUT hydrationGUI_overview.png
+INPUT ./hydrationGUI_overview.png
+INPUT ./hydrationGUI_overview.png
+INPUT ./hydrationGUI_overview.png
+INPUT ./hydrationGUI_overview.png
+INPUT hydrationGUI_overview.png
+INPUT ./hydrationGUI_overview.png
+INPUT hydrationGUI_importing_1d_2d.png
+INPUT ./hydrationGUI_importing_1d_2d.png
+INPUT ./hydrationGUI_importing_1d_2d.png
+INPUT ./hydrationGUI_importing_1d_2d.png
+INPUT ./hydrationGUI_importing_1d_2d.png
+INPUT hydrationGUI_importing_1d_2d.png
+INPUT ./hydrationGUI_importing_1d_2d.png
+INPUT hydrationGUI_experiment_304.png
+INPUT ./hydrationGUI_experiment_304.png
+INPUT ./hydrationGUI_experiment_304.png
+INPUT ./hydrationGUI_experiment_304.png
+INPUT ./hydrationGUI_experiment_304.png
+INPUT hydrationGUI_experiment_304.png
+INPUT ./hydrationGUI_experiment_304.png
+INPUT hydrationGUI_importing_rbdnp1.png
+INPUT ./hydrationGUI_importing_rbdnp1.png
+INPUT ./hydrationGUI_importing_rbdnp1.png
+INPUT ./hydrationGUI_importing_rbdnp1.png
+INPUT ./hydrationGUI_importing_rbdnp1.png
+INPUT hydrationGUI_importing_rbdnp1.png
+INPUT ./hydrationGUI_importing_rbdnp1.png
+INPUT hydrationGUI_procesing_rbdnp1_data.png
+INPUT ./hydrationGUI_procesing_rbdnp1_data.png
+INPUT ./hydrationGUI_procesing_rbdnp1_data.png
+INPUT ./hydrationGUI_procesing_rbdnp1_data.png
+INPUT ./hydrationGUI_procesing_rbdnp1_data.png
+INPUT hydrationGUI_procesing_rbdnp1_data.png
+INPUT ./hydrationGUI_procesing_rbdnp1_data.png
+INPUT hydrationGUI_ksigma.png
+INPUT ./hydrationGUI_ksigma.png
+INPUT ./hydrationGUI_ksigma.png
+INPUT ./hydrationGUI_ksigma.png
+INPUT ./hydrationGUI_ksigma.png
+INPUT hydrationGUI_ksigma.png
+INPUT ./hydrationGUI_ksigma.png
+INPUT hydrationGUI_previous_results1.png
+INPUT ./hydrationGUI_previous_results1.png
+INPUT ./hydrationGUI_previous_results1.png
+INPUT ./hydrationGUI_previous_results1.png
+INPUT ./hydrationGUI_previous_results1.png
+INPUT hydrationGUI_previous_results1.png
+INPUT ./hydrationGUI_previous_results1.png
+INPUT hydrationGUI_previous_results2.png
+INPUT ./hydrationGUI_previous_results2.png
+INPUT ./hydrationGUI_previous_results2.png
+INPUT ./hydrationGUI_previous_results2.png
+INPUT ./hydrationGUI_previous_results2.png
+INPUT hydrationGUI_previous_results2.png
+INPUT ./hydrationGUI_previous_results2.png
+INPUT hydrationGUI_results_from_h5.png
+INPUT ./hydrationGUI_results_from_h5.png
+INPUT ./hydrationGUI_results_from_h5.png
+INPUT ./hydrationGUI_results_from_h5.png
+INPUT ./hydrationGUI_results_from_h5.png
+INPUT hydrationGUI_results_from_h5.png
+INPUT ./hydrationGUI_results_from_h5.png
+INPUT hydrationGUI_terminal.png
+INPUT ./hydrationGUI_terminal.png
+INPUT ./hydrationGUI_terminal.png
+INPUT ./hydrationGUI_terminal.png
+INPUT ./hydrationGUI_terminal.png
+INPUT hydrationGUI_terminal.png
+INPUT ./hydrationGUI_terminal.png
+INPUT dnpLab.ind
+INPUT dnpLab.ind
+INPUT dnpLab.aux
+INPUT ./dnpLab.out
+INPUT ./dnpLab.out
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi5.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi5.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy5.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy5.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/courier/ucrb8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/courier/ucrb8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/courier/ucrbo8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/courier/ucrbo8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/courier/ucrro8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/courier/ucrro8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/helvetic/uhvb8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/helvetic/uhvb8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/helvetic/uhvbo8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/helvetic/uhvbo8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/helvetic/uhvr8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/helvetic/uhvr8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb
+INPUT /Users/tmaly/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb

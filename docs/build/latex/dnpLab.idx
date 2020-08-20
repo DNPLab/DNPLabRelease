@@ -1,0 +1,129 @@
+\indexentry{dnpdata (class in dnpLab)@\spxentry{dnpdata}\spxextra{class in dnpLab}|hyperpage}{12}
+\indexentry{add\_proc\_attrs() (dnpLab.dnpdata method)@\spxentry{add\_proc\_attrs()}\spxextra{dnpLab.dnpdata method}|hyperpage}{12}
+\indexentry{autophase() (dnpLab.dnpdata method)@\spxentry{autophase()}\spxextra{dnpLab.dnpdata method}|hyperpage}{12}
+\indexentry{phase() (dnpLab.dnpdata method)@\spxentry{phase()}\spxextra{dnpLab.dnpdata method}|hyperpage}{12}
+\indexentry{squeeze() (dnpLab.dnpdata method)@\spxentry{squeeze()}\spxextra{dnpLab.dnpdata method}|hyperpage}{12}
+\indexentry{align() (dnpLab.dnpdata method)@\spxentry{align()}\spxextra{dnpLab.dnpdata method}|hyperpage}{13}
+\indexentry{argmax() (dnpLab.dnpdata method)@\spxentry{argmax()}\spxextra{dnpLab.dnpdata method}|hyperpage}{13}
+\indexentry{argmin() (dnpLab.dnpdata method)@\spxentry{argmin()}\spxextra{dnpLab.dnpdata method}|hyperpage}{13}
+\indexentry{chunk() (dnpLab.dnpdata method)@\spxentry{chunk()}\spxextra{dnpLab.dnpdata method}|hyperpage}{13}
+\indexentry{concatenate() (dnpLab.dnpdata method)@\spxentry{concatenate()}\spxextra{dnpLab.dnpdata method}|hyperpage}{13}
+\indexentry{copy() (dnpLab.dnpdata method)@\spxentry{copy()}\spxextra{dnpLab.dnpdata method}|hyperpage}{13}
+\indexentry{get\_coord() (dnpLab.dnpdata method)@\spxentry{get\_coord()}\spxextra{dnpLab.dnpdata method}|hyperpage}{13}
+\indexentry{index() (dnpLab.dnpdata method)@\spxentry{index()}\spxextra{dnpLab.dnpdata method}|hyperpage}{14}
+\indexentry{is\_sorted() (dnpLab.dnpdata method)@\spxentry{is\_sorted()}\spxextra{dnpLab.dnpdata method}|hyperpage}{14}
+\indexentry{merge\_attrs() (dnpLab.dnpdata method)@\spxentry{merge\_attrs()}\spxextra{dnpLab.dnpdata method}|hyperpage}{14}
+\indexentry{new\_dim() (dnpLab.dnpdata method)@\spxentry{new\_dim()}\spxextra{dnpLab.dnpdata method}|hyperpage}{14}
+\indexentry{rename() (dnpLab.dnpdata method)@\spxentry{rename()}\spxextra{dnpLab.dnpdata method}|hyperpage}{14}
+\indexentry{reorder() (dnpLab.dnpdata method)@\spxentry{reorder()}\spxextra{dnpLab.dnpdata method}|hyperpage}{14}
+\indexentry{size() (dnpLab.dnpdata property)@\spxentry{size()}\spxextra{dnpLab.dnpdata property}|hyperpage}{14}
+\indexentry{smoosh() (dnpLab.dnpdata method)@\spxentry{smoosh()}\spxextra{dnpLab.dnpdata method}|hyperpage}{14}
+\indexentry{sort() (dnpLab.dnpdata method)@\spxentry{sort()}\spxextra{dnpLab.dnpdata method}|hyperpage}{14}
+\indexentry{sort\_dims() (dnpLab.dnpdata method)@\spxentry{sort\_dims()}\spxextra{dnpLab.dnpdata method}|hyperpage}{14}
+\indexentry{sum() (dnpLab.dnpdata method)@\spxentry{sum()}\spxextra{dnpLab.dnpdata method}|hyperpage}{14}
+\indexentry{dnpdata\_collection (class in dnpLab)@\spxentry{dnpdata\_collection}\spxextra{class in dnpLab}|hyperpage}{15}
+\indexentry{copy() (dnpLab.dnpdata\_collection method)@\spxentry{copy()}\spxextra{dnpLab.dnpdata\_collection method}|hyperpage}{15}
+\indexentry{move() (dnpLab.dnpdata\_collection method)@\spxentry{move()}\spxextra{dnpLab.dnpdata\_collection method}|hyperpage}{15}
+\indexentry{pop() (dnpLab.dnpdata\_collection method)@\spxentry{pop()}\spxextra{dnpLab.dnpdata\_collection method}|hyperpage}{16}
+\indexentry{dict() (dnpLab.dnpdata\_collection method)@\spxentry{dict()}\spxextra{dnpLab.dnpdata\_collection method}|hyperpage}{16}
+\indexentry{clear() (dnpLab.dnpdata\_collection method)@\spxentry{clear()}\spxextra{dnpLab.dnpdata\_collection method}|hyperpage}{16}
+\indexentry{items() (dnpLab.dnpdata\_collection method)@\spxentry{items()}\spxextra{dnpLab.dnpdata\_collection method}|hyperpage}{16}
+\indexentry{keys() (dnpLab.dnpdata\_collection method)@\spxentry{keys()}\spxextra{dnpLab.dnpdata\_collection method}|hyperpage}{16}
+\indexentry{popitem() (dnpLab.dnpdata\_collection method)@\spxentry{popitem()}\spxextra{dnpLab.dnpdata\_collection method}|hyperpage}{16}
+\indexentry{values() (dnpLab.dnpdata\_collection method)@\spxentry{values()}\spxextra{dnpLab.dnpdata\_collection method}|hyperpage}{16}
+\indexentry{add() (dnpLab.dnpdata\_collection method)@\spxentry{add()}\spxextra{dnpLab.dnpdata\_collection method}|hyperpage}{16}
+\indexentry{module@\spxentry{module}!dnpLab.dnpImport.topspin@\spxentry{dnpLab.dnpImport.topspin}|hyperpage}{16}
+\indexentry{dnpLab.dnpImport.topspin@\spxentry{dnpLab.dnpImport.topspin}!module@\spxentry{module}|hyperpage}{16}
+\indexentry{find\_group\_delay() (in module dnpLab.dnpImport.topspin)@\spxentry{find\_group\_delay()}\spxextra{in module dnpLab.dnpImport.topspin}|hyperpage}{16}
+\indexentry{load\_title() (in module dnpLab.dnpImport.topspin)@\spxentry{load\_title()}\spxextra{in module dnpLab.dnpImport.topspin}|hyperpage}{16}
+\indexentry{load\_acqu() (in module dnpLab.dnpImport.topspin)@\spxentry{load\_acqu()}\spxextra{in module dnpLab.dnpImport.topspin}|hyperpage}{17}
+\indexentry{load\_proc() (in module dnpLab.dnpImport.topspin)@\spxentry{load\_proc()}\spxextra{in module dnpLab.dnpImport.topspin}|hyperpage}{17}
+\indexentry{dir\_data\_type() (in module dnpLab.dnpImport.topspin)@\spxentry{dir\_data\_type()}\spxextra{in module dnpLab.dnpImport.topspin}|hyperpage}{17}
+\indexentry{import\_topspin() (in module dnpLab.dnpImport.topspin)@\spxentry{import\_topspin()}\spxextra{in module dnpLab.dnpImport.topspin}|hyperpage}{17}
+\indexentry{topspin\_fid() (in module dnpLab.dnpImport.topspin)@\spxentry{topspin\_fid()}\spxextra{in module dnpLab.dnpImport.topspin}|hyperpage}{17}
+\indexentry{topspin\_jcamp\_dx() (in module dnpLab.dnpImport.topspin)@\spxentry{topspin\_jcamp\_dx()}\spxextra{in module dnpLab.dnpImport.topspin}|hyperpage}{18}
+\indexentry{topspin\_vdlist() (in module dnpLab.dnpImport.topspin)@\spxentry{topspin\_vdlist()}\spxextra{in module dnpLab.dnpImport.topspin}|hyperpage}{18}
+\indexentry{import\_ser() (in module dnpLab.dnpImport.topspin)@\spxentry{import\_ser()}\spxextra{in module dnpLab.dnpImport.topspin}|hyperpage}{18}
+\indexentry{topspin\_ser\_phase\_cycle() (in module dnpLab.dnpImport.topspin)@\spxentry{topspin\_ser\_phase\_cycle()}\spxextra{in module dnpLab.dnpImport.topspin}|hyperpage}{18}
+\indexentry{import\_topspin\_dir() (in module dnpLab.dnpImport.topspin)@\spxentry{import\_topspin\_dir()}\spxextra{in module dnpLab.dnpImport.topspin}|hyperpage}{18}
+\indexentry{module@\spxentry{module}!dnpLab.dnpImport.vnmrj@\spxentry{dnpLab.dnpImport.vnmrj}|hyperpage}{19}
+\indexentry{dnpLab.dnpImport.vnmrj@\spxentry{dnpLab.dnpImport.vnmrj}!module@\spxentry{module}|hyperpage}{19}
+\indexentry{array\_coords() (in module dnpLab.dnpImport.vnmrj)@\spxentry{array\_coords()}\spxextra{in module dnpLab.dnpImport.vnmrj}|hyperpage}{19}
+\indexentry{import\_fid() (in module dnpLab.dnpImport.vnmrj)@\spxentry{import\_fid()}\spxextra{in module dnpLab.dnpImport.vnmrj}|hyperpage}{19}
+\indexentry{import\_procpar() (in module dnpLab.dnpImport.vnmrj)@\spxentry{import\_procpar()}\spxextra{in module dnpLab.dnpImport.vnmrj}|hyperpage}{19}
+\indexentry{import\_vnmrj() (in module dnpLab.dnpImport.vnmrj)@\spxentry{import\_vnmrj()}\spxextra{in module dnpLab.dnpImport.vnmrj}|hyperpage}{19}
+\indexentry{module@\spxentry{module}!dnpLab.dnpImport.prospa@\spxentry{dnpLab.dnpImport.prospa}|hyperpage}{19}
+\indexentry{dnpLab.dnpImport.prospa@\spxentry{dnpLab.dnpImport.prospa}!module@\spxentry{module}|hyperpage}{19}
+\indexentry{import\_prospa() (in module dnpLab.dnpImport.prospa)@\spxentry{import\_prospa()}\spxextra{in module dnpLab.dnpImport.prospa}|hyperpage}{19}
+\indexentry{import\_prospa\_dir() (in module dnpLab.dnpImport.prospa)@\spxentry{import\_prospa\_dir()}\spxextra{in module dnpLab.dnpImport.prospa}|hyperpage}{19}
+\indexentry{import\_nd() (in module dnpLab.dnpImport.prospa)@\spxentry{import\_nd()}\spxextra{in module dnpLab.dnpImport.prospa}|hyperpage}{19}
+\indexentry{import\_par() (in module dnpLab.dnpImport.prospa)@\spxentry{import\_par()}\spxextra{in module dnpLab.dnpImport.prospa}|hyperpage}{20}
+\indexentry{import\_csv() (in module dnpLab.dnpImport.prospa)@\spxentry{import\_csv()}\spxextra{in module dnpLab.dnpImport.prospa}|hyperpage}{20}
+\indexentry{module@\spxentry{module}!dnpLab.dnpImport.h5@\spxentry{dnpLab.dnpImport.h5}|hyperpage}{20}
+\indexentry{dnpLab.dnpImport.h5@\spxentry{dnpLab.dnpImport.h5}!module@\spxentry{module}|hyperpage}{20}
+\indexentry{saveh5() (in module dnpLab.dnpImport.h5)@\spxentry{saveh5()}\spxextra{in module dnpLab.dnpImport.h5}|hyperpage}{20}
+\indexentry{write\_dnpdata() (in module dnpLab.dnpImport.h5)@\spxentry{write\_dnpdata()}\spxextra{in module dnpLab.dnpImport.h5}|hyperpage}{20}
+\indexentry{write\_dict() (in module dnpLab.dnpImport.h5)@\spxentry{write\_dict()}\spxextra{in module dnpLab.dnpImport.h5}|hyperpage}{20}
+\indexentry{loadh5() (in module dnpLab.dnpImport.h5)@\spxentry{loadh5()}\spxextra{in module dnpLab.dnpImport.h5}|hyperpage}{20}
+\indexentry{module@\spxentry{module}!dnpLab.dnpNMR@\spxentry{dnpLab.dnpNMR}|hyperpage}{21}
+\indexentry{dnpLab.dnpNMR@\spxentry{dnpLab.dnpNMR}!module@\spxentry{module}|hyperpage}{21}
+\indexentry{update\_parameters() (in module dnpLab.dnpNMR)@\spxentry{update\_parameters()}\spxextra{in module dnpLab.dnpNMR}|hyperpage}{21}
+\indexentry{remove\_offset() (in module dnpLab.dnpNMR)@\spxentry{remove\_offset()}\spxextra{in module dnpLab.dnpNMR}|hyperpage}{21}
+\indexentry{fourier\_transform() (in module dnpLab.dnpNMR)@\spxentry{fourier\_transform()}\spxextra{in module dnpLab.dnpNMR}|hyperpage}{21}
+\indexentry{window() (in module dnpLab.dnpNMR)@\spxentry{window()}\spxextra{in module dnpLab.dnpNMR}|hyperpage}{22}
+\indexentry{integrate() (in module dnpLab.dnpNMR)@\spxentry{integrate()}\spxextra{in module dnpLab.dnpNMR}|hyperpage}{22}
+\indexentry{align() (in module dnpLab.dnpNMR)@\spxentry{align()}\spxextra{in module dnpLab.dnpNMR}|hyperpage}{23}
+\indexentry{autophase() (in module dnpLab.dnpNMR)@\spxentry{autophase()}\spxextra{in module dnpLab.dnpNMR}|hyperpage}{23}
+\indexentry{module@\spxentry{module}!dnpLab.dnpFit@\spxentry{dnpLab.dnpFit}|hyperpage}{24}
+\indexentry{dnpLab.dnpFit@\spxentry{dnpLab.dnpFit}!module@\spxentry{module}|hyperpage}{24}
+\indexentry{t1Fit() (in module dnpLab.dnpFit)@\spxentry{t1Fit()}\spxextra{in module dnpLab.dnpFit}|hyperpage}{24}
+\indexentry{enhancementFit() (in module dnpLab.dnpFit)@\spxentry{enhancementFit()}\spxextra{in module dnpLab.dnpFit}|hyperpage}{24}
+\indexentry{module@\spxentry{module}!dnpLab.dnpHydration@\spxentry{dnpLab.dnpHydration}|hyperpage}{25}
+\indexentry{dnpLab.dnpHydration@\spxentry{dnpLab.dnpHydration}!module@\spxentry{module}|hyperpage}{25}
+\indexentry{hydration() (in module dnpLab.dnpHydration)@\spxentry{hydration()}\spxextra{in module dnpLab.dnpHydration}|hyperpage}{25}
+\indexentry{HydrationParameter (class in dnpLab.dnpHydration)@\spxentry{HydrationParameter}\spxextra{class in dnpLab.dnpHydration}|hyperpage}{25}
+\indexentry{ksigma\_bulk (dnpLab.dnpHydration.HydrationParameter attribute)@\spxentry{ksigma\_bulk}\spxextra{dnpLab.dnpHydration.HydrationParameter attribute}|hyperpage}{25}
+\indexentry{klow\_bulk (dnpLab.dnpHydration.HydrationParameter attribute)@\spxentry{klow\_bulk}\spxextra{dnpLab.dnpHydration.HydrationParameter attribute}|hyperpage}{25}
+\indexentry{tcorr\_bulk (dnpLab.dnpHydration.HydrationParameter attribute)@\spxentry{tcorr\_bulk}\spxextra{dnpLab.dnpHydration.HydrationParameter attribute}|hyperpage}{25}
+\indexentry{D\_H2O (dnpLab.dnpHydration.HydrationParameter attribute)@\spxentry{D\_H2O}\spxextra{dnpLab.dnpHydration.HydrationParameter attribute}|hyperpage}{25}
+\indexentry{D\_SL (dnpLab.dnpHydration.HydrationParameter attribute)@\spxentry{D\_SL}\spxextra{dnpLab.dnpHydration.HydrationParameter attribute}|hyperpage}{25}
+\indexentry{field (dnpLab.dnpHydration.HydrationParameter attribute)@\spxentry{field}\spxextra{dnpLab.dnpHydration.HydrationParameter attribute}|hyperpage}{25}
+\indexentry{spin\_C (dnpLab.dnpHydration.HydrationParameter attribute)@\spxentry{spin\_C}\spxextra{dnpLab.dnpHydration.HydrationParameter attribute}|hyperpage}{25}
+\indexentry{T10 (dnpLab.dnpHydration.HydrationParameter attribute)@\spxentry{T10}\spxextra{dnpLab.dnpHydration.HydrationParameter attribute}|hyperpage}{25}
+\indexentry{T100 (dnpLab.dnpHydration.HydrationParameter attribute)@\spxentry{T100}\spxextra{dnpLab.dnpHydration.HydrationParameter attribute}|hyperpage}{26}
+\indexentry{t1\_interp\_method() (dnpLab.dnpHydration.HydrationParameter property)@\spxentry{t1\_interp\_method()}\spxextra{dnpLab.dnpHydration.HydrationParameter property}|hyperpage}{26}
+\indexentry{smax\_model() (dnpLab.dnpHydration.HydrationParameter property)@\spxentry{smax\_model()}\spxextra{dnpLab.dnpHydration.HydrationParameter property}|hyperpage}{26}
+\indexentry{HydrationCalculator (class in dnpLab.dnpHydration)@\spxentry{HydrationCalculator}\spxextra{class in dnpLab.dnpHydration}|hyperpage}{26}
+\indexentry{T1 (dnpLab.dnpHydration.HydrationCalculator attribute)@\spxentry{T1}\spxextra{dnpLab.dnpHydration.HydrationCalculator attribute}|hyperpage}{26}
+\indexentry{T1\_power (dnpLab.dnpHydration.HydrationCalculator attribute)@\spxentry{T1\_power}\spxextra{dnpLab.dnpHydration.HydrationCalculator attribute}|hyperpage}{26}
+\indexentry{E (dnpLab.dnpHydration.HydrationCalculator attribute)@\spxentry{E}\spxextra{dnpLab.dnpHydration.HydrationCalculator attribute}|hyperpage}{26}
+\indexentry{E\_power (dnpLab.dnpHydration.HydrationCalculator attribute)@\spxentry{E\_power}\spxextra{dnpLab.dnpHydration.HydrationCalculator attribute}|hyperpage}{26}
+\indexentry{hp (dnpLab.dnpHydration.HydrationCalculator attribute)@\spxentry{hp}\spxextra{dnpLab.dnpHydration.HydrationCalculator attribute}|hyperpage}{26}
+\indexentry{results (dnpLab.dnpHydration.HydrationCalculator attribute)@\spxentry{results}\spxextra{dnpLab.dnpHydration.HydrationCalculator attribute}|hyperpage}{26}
+\indexentry{run() (dnpLab.dnpHydration.HydrationCalculator method)@\spxentry{run()}\spxextra{dnpLab.dnpHydration.HydrationCalculator method}|hyperpage}{26}
+\indexentry{interpolate\_T1() (dnpLab.dnpHydration.HydrationCalculator method)@\spxentry{interpolate\_T1()}\spxextra{dnpLab.dnpHydration.HydrationCalculator method}|hyperpage}{26}
+\indexentry{get\_tcorr() (dnpLab.dnpHydration.HydrationCalculator static method)@\spxentry{get\_tcorr()}\spxextra{dnpLab.dnpHydration.HydrationCalculator static method}|hyperpage}{27}
+\indexentry{get\_ksigma() (dnpLab.dnpHydration.HydrationCalculator static method)@\spxentry{get\_ksigma()}\spxextra{dnpLab.dnpHydration.HydrationCalculator static method}|hyperpage}{27}
+\indexentry{get\_uncorrected\_xi() (dnpLab.dnpHydration.HydrationCalculator static method)@\spxentry{get\_uncorrected\_xi()}\spxextra{dnpLab.dnpHydration.HydrationCalculator static method}|hyperpage}{27}
+\indexentry{HydrationResults (class in dnpLab.dnpHydration)@\spxentry{HydrationResults}\spxextra{class in dnpLab.dnpHydration}|hyperpage}{27}
+\indexentry{uncorrected\_Ep (dnpLab.dnpHydration.HydrationResults attribute)@\spxentry{uncorrected\_Ep}\spxextra{dnpLab.dnpHydration.HydrationResults attribute}|hyperpage}{28}
+\indexentry{interpolated\_T1 (dnpLab.dnpHydration.HydrationResults attribute)@\spxentry{interpolated\_T1}\spxextra{dnpLab.dnpHydration.HydrationResults attribute}|hyperpage}{28}
+\indexentry{ksigma\_array (dnpLab.dnpHydration.HydrationResults attribute)@\spxentry{ksigma\_array}\spxextra{dnpLab.dnpHydration.HydrationResults attribute}|hyperpage}{28}
+\indexentry{ksigma\_fit (dnpLab.dnpHydration.HydrationResults attribute)@\spxentry{ksigma\_fit}\spxextra{dnpLab.dnpHydration.HydrationResults attribute}|hyperpage}{28}
+\indexentry{ksigma (dnpLab.dnpHydration.HydrationResults attribute)@\spxentry{ksigma}\spxextra{dnpLab.dnpHydration.HydrationResults attribute}|hyperpage}{28}
+\indexentry{ksigma\_stdd (dnpLab.dnpHydration.HydrationResults attribute)@\spxentry{ksigma\_stdd}\spxextra{dnpLab.dnpHydration.HydrationResults attribute}|hyperpage}{28}
+\indexentry{ksigma\_bulk\_ratio (dnpLab.dnpHydration.HydrationResults attribute)@\spxentry{ksigma\_bulk\_ratio}\spxextra{dnpLab.dnpHydration.HydrationResults attribute}|hyperpage}{28}
+\indexentry{krho (dnpLab.dnpHydration.HydrationResults attribute)@\spxentry{krho}\spxextra{dnpLab.dnpHydration.HydrationResults attribute}|hyperpage}{28}
+\indexentry{klow (dnpLab.dnpHydration.HydrationResults attribute)@\spxentry{klow}\spxextra{dnpLab.dnpHydration.HydrationResults attribute}|hyperpage}{28}
+\indexentry{klow\_bulk\_ratio (dnpLab.dnpHydration.HydrationResults attribute)@\spxentry{klow\_bulk\_ratio}\spxextra{dnpLab.dnpHydration.HydrationResults attribute}|hyperpage}{28}
+\indexentry{coupling\_factor (dnpLab.dnpHydration.HydrationResults attribute)@\spxentry{coupling\_factor}\spxextra{dnpLab.dnpHydration.HydrationResults attribute}|hyperpage}{28}
+\indexentry{tcorr (dnpLab.dnpHydration.HydrationResults attribute)@\spxentry{tcorr}\spxextra{dnpLab.dnpHydration.HydrationResults attribute}|hyperpage}{28}
+\indexentry{tcorr\_bulk\_ratio (dnpLab.dnpHydration.HydrationResults attribute)@\spxentry{tcorr\_bulk\_ratio}\spxextra{dnpLab.dnpHydration.HydrationResults attribute}|hyperpage}{28}
+\indexentry{Dlocal (dnpLab.dnpHydration.HydrationResults attribute)@\spxentry{Dlocal}\spxextra{dnpLab.dnpHydration.HydrationResults attribute}|hyperpage}{29}
+\indexentry{FitError (class in dnpLab.dnpHydration)@\spxentry{FitError}\spxextra{class in dnpLab.dnpHydration}|hyperpage}{29}
+\indexentry{AttrDict (class in dnpLab.dnpHydration)@\spxentry{AttrDict}\spxextra{class in dnpLab.dnpHydration}|hyperpage}{29}
+\indexentry{update() (dnpLab.dnpHydration.AttrDict method)@\spxentry{update()}\spxextra{dnpLab.dnpHydration.AttrDict method}|hyperpage}{29}
+\indexentry{module@\spxentry{module}!dnpLab.dnpResults@\spxentry{dnpLab.dnpResults}|hyperpage}{29}
+\indexentry{dnpLab.dnpResults@\spxentry{dnpLab.dnpResults}!module@\spxentry{module}|hyperpage}{29}
+\indexentry{imshow() (in module dnpLab.dnpResults)@\spxentry{imshow()}\spxextra{in module dnpLab.dnpResults}|hyperpage}{29}
+\indexentry{plot() (in module dnpLab.dnpResults)@\spxentry{plot()}\spxextra{in module dnpLab.dnpResults}|hyperpage}{29}
